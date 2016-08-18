@@ -1,3 +1,5 @@
+NOTE: fork of [dustinfarris/ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) with possibility to use inside antoher ember addons.
+
 Ember Django Adapter
 ====================
 
